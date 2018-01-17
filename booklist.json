@@ -1,0 +1,38 @@
+[
+    {
+        "action": "Skąpiec, Molier",
+        "done": false
+    },
+    {
+        "action": "Wielki Gatsby, F. Scott Fitzgerald",
+        "done": true
+    },
+    {
+        "action": "Od nędzy do pieniędzy, Tad Witkowicz",
+        "done": true
+    },
+    {
+        "action": "Tytan. Życie Johna D. Rockefellera, Ron Chernow",
+        "done": true
+    },
+    {
+        "action": "Myśl i bogać się, Napoleon Hill",
+        "done": false
+    },
+    {
+        "action": "Więzień nieba, Carlos Ruiz Zafon",
+        "done": false
+    },
+	{
+		"action": "Legion, Elżbieta Cherezińska",
+		"done": true
+	},
+	{
+		"action": "Morfina, Szczepan Twardoch",
+		"done": true
+	},
+	{
+		"action": "Niełatwy dzień, Mark Owen",
+		"done": false
+	}
+]
